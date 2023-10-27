@@ -1,0 +1,5 @@
+pyrogram
+requests
+opencv-python
+numpy
+tqdm
